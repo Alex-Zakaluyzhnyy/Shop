@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Shop.Data.Interfeces
 {
-    interface IAllCars
+    public interface IAllCars
     {
         IEnumerable<Car> Cars { get; }
 

@@ -16,3 +16,4 @@ namespace Shop.Data.Models
         public List<Car> Cars { get; set; }
     }
 }
+
